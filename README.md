@@ -21,4 +21,3 @@ Tesis de Posgrado | Ciencia de la Computación |
 ### results
 
 ### src
-Contiene scripts y funciones reutilizables desarrollados en Python.
