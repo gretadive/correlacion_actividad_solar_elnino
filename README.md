@@ -13,6 +13,8 @@ Tesis de Posgrado | Ciencia de la Computación |
     - `ssn_original.txt`
 - processed
   - `icen_procesado.csv`
+  - `oni_procesado.csv`
+  - `snn_procesado.csv`
 
 ### notebooks
 
