@@ -17,10 +17,10 @@ Tesis de Posgrado | Ciencia de la Computación |
   - `snn_procesado.csv`
 
 ### notebooks
--01_limpieza_icen.ipynb
--02_limpieza_oni.ipynb
--03_limpieza_ssn.ipynb
--04_integracion_datos.ipynb
+-`01_limpieza_icen.ipynb`
+-`02_limpieza_oni.ipynb`
+-`03_limpieza_ssn.ipynb`
+-`04_integracion_datos.ipynb`
 ### figures
 
 ### results
